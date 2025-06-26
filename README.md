@@ -63,4 +63,4 @@ Telegram频道传送门：汇聚热门 Telegram 频道入口，涵盖资讯、�
 
 《黑料大事记》系统梳理娱乐圈与网红圈的重要爆料事件，时间线清晰、内容真实，记录每一次舆论风暴的始末，是吃瓜群众回顾往年大瓜、了解圈内内幕的利器。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/Aman20250626/Aman20250626）</span>
